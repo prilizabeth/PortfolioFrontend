@@ -1,0 +1,51 @@
+#header {
+    background: #E7677E;
+}
+
+#name {
+    color: white;
+}
+
+#ingresar {
+    background: #E7677E;
+    font-weight: bold;
+    color: white;
+}
+
+#portada {
+    filter: brightness(0.7) grayscale(40%);
+}
+
+#presentation {
+    position: relative;
+}
+
+#presentation .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: (0, 0, 0, 0.5);
+    color: white;
+}
+
+.card-body img {
+    width: 50px;
+}
+
+.progress-bar {
+    background-color: #E7677E;
+}
+
+#footer {
+    background: #B3B7BE;
+}
+
+#footer img {
+    width: 25px;
+}
+
+.modal-body img {
+    width: 30px;
+}
